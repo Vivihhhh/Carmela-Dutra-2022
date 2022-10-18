@@ -1,11 +1,11 @@
 ---
 created: 2022-10-18T14:15:13-03:00
-modified: 2022-10-18T15:24:35-03:00
+modified: 2022-10-18T17:15:36-03:00
 ---
 
 # Jornal do Carmela
 
-# **Ativistas e o Quadro de Van Gogh**
+# **Ativistas atiram sopa de tomate em Quadro de Van Gogh**
 ---
 
 Nesse última sexta-feira (14), Duas mulheres entraram em uma galeria em Loudres (National Gallery)  e jogarem dias latas de sopa de tomate em uma das obra da série "girassóis" de Vincent Van Gogh.
